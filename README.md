@@ -1,2 +1,2 @@
 # SnakeGameJS
-##About this Project:
+## About this Project:
