@@ -3,8 +3,8 @@
 The classic snake game implemented using JavaScript and p5js library for JavaScript,along with bootstrap for some styling. Feel free to make changes and point out corrections if any.
 ## How To Run:
 There are many ways to launch a web application, but I used the "Live Server" extension in VSCode.
-If you prefer launching via any server and you are using Mac or Windows,[refer this](https://gist.github.com/jgravois/5e73b56fa7756fd00b89)
-If you are using Linux,[refer this](https://phoenixnap.com/kb/how-to-install-apache-web-server-on-ubuntu-18-04)
+If you prefer launching via any server and you are using Mac or Windows,[refer this](https://gist.github.com/jgravois/5e73b56fa7756fd00b89).
+If you are using Linux,[refer this](https://phoenixnap.com/kb/how-to-install-apache-web-server-on-ubuntu-18-04).
 
 The following  instructions are for setting up the live server in VSCode.
 
