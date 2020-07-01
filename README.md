@@ -20,6 +20,7 @@ The following  instructions are for setting up the live server in VSCode.
 The game will start running on your browser on port '5500'.
 
 ![Screenshot_2020-07-01 Snake Game](https://user-images.githubusercontent.com/62542574/86204013-13c55c80-bb84-11ea-8a86-92f14a710c53.png)
+![Screenshot_2020-07-01 Snake Game(1)](https://user-images.githubusercontent.com/62542574/86208320-f39a9b00-bb8d-11ea-878d-07c7c6c4dcda.png)
 
 ## Gameplay:
 1. Use arrow keys to move the snake across the canvas.
